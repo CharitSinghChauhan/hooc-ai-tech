@@ -24,6 +24,7 @@ export default function CTA2() {
         <div className="flex flex-col gap-4 sm:flex-row sm:gap-6">
           <button className="flex w-full items-center justify-between rounded-full bg-black px-5 py-3 text-white sm:w-[240px]">
             <span className="font-medium"> Chat On WhatsApp</span>
+            
           </button>
           <button className="flex w-full items-center justify-between rounded-full bg-black px-5 py-3 text-white sm:w-[240px]">
             <span className="font-medium">Test Your Samples</span>

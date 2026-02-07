@@ -19,7 +19,7 @@ const logos = [
 
 export function LogosSection() {
   return (
-    <div className="relative bg-white rounded-t-[4rem] -mt-16 pt-12 px-8 z-20">
+    <div className="relative bg-white rounded-t-[4rem] pt-12 px-8 z-20">
       <div className="max-w-7xl mx-auto">
         <p className="text-center text-zinc-400 text-sm mb-10">
           Partners and partners who trust us
